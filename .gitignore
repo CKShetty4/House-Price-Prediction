@@ -1,0 +1,42 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.pdb
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment/virtual environment
+venv/
+env/
+*.conda
+*.env
+*.venv
+
+# Anaconda
+anaconda-navigator/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+
+# Windows Installer logs
+*.cab
+*.msi
+*.msm
+
+# JupyterLab specific
+*.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.json
