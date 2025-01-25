@@ -40,3 +40,6 @@ Desktop.ini
 *.tsv
 *.xlsx
 *.json
+
+# Exclude virtual documents folder
+.virtual_documents/
